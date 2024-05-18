@@ -1,3 +1,5 @@
+package DP;
+
 public class climb_stair_tab {
     public static void main(String[] args) {
         int n = 5;
